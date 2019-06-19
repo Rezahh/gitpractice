@@ -4,6 +4,9 @@
   box-sizing: border-box;
 }
 
+h1{color: red;
+}
+
 nav, footer {
   background-color: grey;
   height: 40px;
@@ -57,7 +60,7 @@ footer {
   .c {
     width: 50%;
   }
-} 
+}
 
 @media screen and (max-width: 600px) {
   main {
